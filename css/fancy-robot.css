@@ -51,8 +51,8 @@
 .robot-ear-right {
   position: absolute;
   border: 4px solid transparent;
-  width: 100px;
-  height: 100px;
+  width: 10%;
+  height: 5rem;
   background: url('https://picsum.photos/200/300');
   border-radius: 50%;
   top: 45%;
@@ -68,7 +68,7 @@
   height: 0;
   border-bottom: 80px solid rgb(70, 156, 99);
   border-left: 80px solid transparent;
-  
+  opacity: 0.5;
 }
 
 .robot-teeth {
